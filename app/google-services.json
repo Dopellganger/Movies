@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041119153808",
+    "project_id": "movies-385410",
+    "storage_bucket": "movies-385410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041119153808:android:6934d8ea6fa050f1655215",
+        "android_client_info": {
+          "package_name": "rostyslav.kachur.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041119153808-8qbed80hv99k610c22bofc9vv87vs18f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKi61yfsfi_6Qx7ZMy9ep0SYgRTIQct_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041119153808-8qbed80hv99k610c22bofc9vv87vs18f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

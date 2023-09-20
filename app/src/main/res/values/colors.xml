@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grayBackground">#FFF2F2F7</color>
+    <color name="violetBackground">#ff2E3B5C</color>
+
+    <!-- DatePicker colors -->
+    <color name="violetLight">#FF005C92</color>
+    <color name="dateSelectorColor">#99000000</color>
+    <color name="dateColor">#DE000000</color>
+    <color name="disabledDateColor">#993C3C43</color>
+
+    <!--  Undefined colors  -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black_light">#FF121010</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

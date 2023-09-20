@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <!--Movies List-->
+    <string name="reached_the_end">You have reached the end</string>
+
+    <!--Movie Detail-->
+    <string name="more_info">More info</string>
+    <string name="release_date">Release Date:</string>
+    <string name="rating">Rating:</string>
+    <string name="runtime">Runtime:</string>
+    <string name="runtime_in_minutes">%d minutes</string>
+    <string name="value_in_currency">$%,d</string>
+    <string name="budget">Budget:</string>
+    <string name="revenue">Revenue:</string>
+    <string name="overview">Overview</string>
+
+    <!--Error Message-->
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="smt_went_wrong">Something went wrong</string>
+</resources>
